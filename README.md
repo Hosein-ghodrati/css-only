@@ -1,7 +1,7 @@
 # css-only
 
 
-<span>&diams;</span>  <a href=" https://hosein-ghodrati.github.io/css-only/">Online Demo</a>
+<span>&diams;</span>  <a href="https://hosein-ghodrati.github.io/css-only/">Online Demo</a>
 
 <span>&diams;</span>  Developed by Hosein Ghodrati
 
